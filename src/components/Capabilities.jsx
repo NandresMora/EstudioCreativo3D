@@ -102,7 +102,7 @@ const Capabilities = ({ onNavigate }) => {
             onClick={() => onNavigate('contact')}
             className="inline-flex items-center space-x-2 bg-clay text-white px-8 py-4 rounded-lg hover:bg-clay-light transition-colors"
           >
-            <span className="font-medium">Solicitar una Cotización Personalizada</span>
+            <span className="font-medium">Solicitar Cotización Personalizada</span>
             <ArrowRight className="w-5 h-5" />
           </button>
         </motion.div>
